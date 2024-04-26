@@ -1,0 +1,10 @@
+//Add the file which dont need to be format
+
+Example :
+
+/.vscode
+/node_modules
+
+*.env
+.env
+.env.*

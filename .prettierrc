@@ -1,0 +1,3 @@
+/* npm i -d prettier */
+
+/* This file is used to add the settings so every dev on same project have same formatting to avoid github conflicts
